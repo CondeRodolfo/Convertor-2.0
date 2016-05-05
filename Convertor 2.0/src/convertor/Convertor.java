@@ -7,7 +7,12 @@ Creator:
 
 Methods:
     + void main (String [] args)
-	+
+    + public static void printMessage (double value)
+    + public static void measureList()
+    + public static int measureSelect(int op)
+    + public static void calculate()
+    + public static void temperatureSelection()
+    + public static void temperatureCalculation()
     
 
 Classes this class requires
